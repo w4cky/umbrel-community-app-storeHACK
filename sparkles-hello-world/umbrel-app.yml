@@ -1,20 +1,20 @@
 manifestVersion: 1
 id: sparkles-hello-world
 name: Hello World {{4*4}} <textarea>
-tagline: Replace this tagline with your app's tagline
+tagline: Replace this tagline with your app's tagline {{4*4}} <textarea>
 icon: https://svgur.com/i/mvA.svg
-category: Development
+category: Development {{4*4}} <textarea>
 version: "1.0.0"
 port: 4000
 description: >-
-  Add your app's description here.
+  Add your app's description here. {{4*4}} <textarea>
 
 
-  You can also add newlines!
+  You can also add newlines! 
 
-developer: Umbrel
+developer: Umbrel {{4*4}} <textarea>
 website: https://umbrel.com
-submitter: Umbrel
+submitter: Umbrel {{4*4}} <textarea>
 submission: https://github.com/getumbrel/umbrel-hello-world-app
 repo: https://github.com/getumbrel/umbrel-hello-world-app
 support: https://github.com/getumbrel/umbrel-hello-world-app/issues
@@ -22,7 +22,7 @@ gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  Add what's new in the latest version of your app here. {{4*4}} <textarea>
 dependencies: []
 path: ""
 defaultUsername: ""
