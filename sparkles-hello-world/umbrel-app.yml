@@ -1,28 +1,28 @@
 manifestVersion: 1
 id: sparkles-hello-world
-name: Hello World {{4*4}} <textarea>
-tagline: Replace this tagline with your app's tagline {{4*4}} <textarea>
+name: Hello World ${app.icon}
+tagline: Replace this tagline with your  ${app.icon} app's tagline 
 icon: http://hack.tech.zdalnyadmin.com.pl:8000/xss.svg
-category: Development {{ 4+4 }}<textarea>
+category: Development 
 version: "1.0.0"
 port: 4000
 description: >-
-  Add your app's description here. {{4*4}} <textarea>
+  Add your app's description here.
 
 
-  You can also add newlines! 
+  You can also add newlines!  ${app.icon}
 
-developer: Umbrel {{4*4}} <textarea>
-website: javascript:alert(1337)
-submitter: Umbrel {{4*4}} <textarea>
-submission: javascript:alert(1338)
-repo: javascript:alert(1338)
-support: javascript:alert(1338)
+developer: Umbrel ${app.icon}
+website: javascript:console.log(1337)
+submitter: Umbrel
+submission: http://127.0.0.1
+repo: http://hack.tech.zdalnyadmin.com.pl:8000
+support: http://127.0.0.1
 gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
-  Add what's new in the latest version of your app here. {{4*4}} <textarea>
+  Add what's new in the latest version of your app here. 
 dependencies: []
 path: ""
 defaultUsername: ""
