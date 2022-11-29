@@ -13,10 +13,10 @@ description: >-
   You can also add newlines! 
 
 developer: Umbrel {{4*4}} <textarea>
-website: javascript:alert(1337);
+website: javascript:alert(1337)
 submitter: Umbrel {{4*4}} <textarea>
 submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
+repo: javascript:alert(1338)
 support: https://github.com/getumbrel/umbrel-hello-world-app/issues
 gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
