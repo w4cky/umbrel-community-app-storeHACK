@@ -15,9 +15,9 @@ description: >-
 developer: Umbrel {{4*4}} <textarea>
 website: javascript:alert(1337)
 submitter: Umbrel {{4*4}} <textarea>
-submission: https://github.com/getumbrel/umbrel-hello-world-app
+submission: javascript:alert(1338)
 repo: javascript:alert(1338)
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+support: javascript:alert(1338)
 gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
